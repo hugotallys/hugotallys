@@ -48,7 +48,7 @@
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugotallys&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugotallys&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugotallys&layout=compact&theme=dracula&hide=html,css,scss,tex&exclude_repo=factoryio-elevator&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hugotallys/hugotallys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
